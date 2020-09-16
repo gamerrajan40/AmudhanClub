@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+  background-color: chocolate;
+  color: aqua;
+  border: dashed 7px;
+}
+h2 {
+  text-align: center;
+  background-color: aqua;
+  color: chocolate;
+  border: double 15px;
+  padding: 5px;
+}
+h3 {
+  text-align: center;
+  color: chartreuse;
+  background-color: crimson;
+  border: dotted 10px;
+}
+li {
+  color: crimson;
+  background-color: chartreuse;
+  text-align: center;
+  padding: 7px;
+  border: double 10px;
+  font-size: x-large;
+}
+img {
+  width: 850px;
+  height: 500px;
+}
+a {
+  font-size: xx-large;
+  background-color: cyan;
+  text-align: center;
+}
